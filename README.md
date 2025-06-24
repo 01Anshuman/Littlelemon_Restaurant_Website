@@ -1,21 +1,21 @@
-# 🍋 Little Lemon - Django Registration System
+# Little Lemon  - Django Based Restaurant Booking System
 
-This is a Django-based user registration and login system created as part of the [freeCodeCamp Django tutorial](https://www.freecodecamp.org/). The application simulates a registration system for a restaurant named **Little Lemon**, allowing users to sign up, log in, and log out securely using Django's built-in authentication system.
+This is a Django-based Restaurant booking system created as part of the [freeCodeCamp Django tutorial](https://www.freecodecamp.org/). The application simulates a booking system for a restaurant named **Little Lemon**, allowing users to show menu listed, booking using Django's built- system.
 
 ---
 
-## 📌 Features
+##  Features
 
-- ✅ User Login and Logout
-- ✅ Form validation with feedback
+- ✅ Showing Listed menu 
+- ✅ Interacting webpage for Home, About, Menu, Book
 - ✅ Django Admin Panel integration
-- ✅ Responsive design using Bootstrap
+- ✅ Pre Restaurant Booking System 
 
 
 ---
 
 
-### 🧩 Tech Stack
+###  Tech Stack
 
 | Layer       | Technologies                                   |
 |-------------|------------------------------------------------|
@@ -26,14 +26,15 @@ This is a Django-based user registration and login system created as part of the
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 
 | Page | Preview |
 |------|---------|
 | Home | ![Home](screenshots/home.png) |
-| Projects | ![Projects](screenshots/projects.png) |
-| Contact | ![Contact](screenshots/contact.png) |
+| About | ![Projects](screenshots/about.png) |
+| Menu | ![Contact](screenshots/menu.png) |
+| Book | ![Contact](screenshots/book.png) |
 
 ---
 
@@ -51,8 +52,8 @@ This is a Django-based user registration and login system created as part of the
 
 ```bash
 # Step 1: Clone the Repository
-git clone https://github.com/01Anshuman/My-Portfolio-Website.git
-cd My-Portfolio-Website
+git clone https://github.com/01Anshuman/Littlelemon_Restaurant_Website.git
+cd Littlelemon_Restaurant_Website
 
 # Step 2: Create and Activate Virtual Environment
 python -m venv venv
